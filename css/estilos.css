@@ -1,3 +1,8 @@
+.sprite-sprite {
+  background-image: url('/imagens/sprite-s8ca5edb2ee.png');
+  background-repeat: no-repeat;
+}
+
 .plataformas li, .social li a {
   text-indent: -9999px;
   overflow: hidden;
@@ -630,7 +635,7 @@ header .container {
 }
 
 .icone-check, .icone-x {
-  background: url("../imagens/sprite.png") no-repeat;
+  background: url("../imagens/sprite-s8ca5edb2ee.png") no-repeat;
   width: 18px;
   height: 18px;
 }

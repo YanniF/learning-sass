@@ -1,3 +1,5 @@
+$sprite-spacing: 5px;//variável para inserir um espaçamento no sprite criado pelo Compass
+@import "sprite/*.png";
 @import "helpers/variaveis";
 @import "helpers/mixins";
 @import "base/normalize";
